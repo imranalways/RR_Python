@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+    <CommonWaitingTime>0.3</CommonWaitingTime>
+    <DelayOneSec>1</DelayOneSec>
+    <DelayTwoSec>2</DelayTwoSec>
+    <MaxWaitingTimeForError>60</MaxWaitingTimeForError>
+	<ImageExceptionWait>30</ImageExceptionWait>
+    <ImageFilePath>C:/RPA_Cardpro/CIF_Verification/Image/</ImageFilePath>
+    <ApproveWait>2</ApproveWait>
+</configuration>

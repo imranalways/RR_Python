@@ -1,0 +1,6 @@
+10.5.6.106
+eOperations
+eoperation
+12345678
+http://10.5.13.164:7001/bosprod/ProdctServlet
+http://10.5.13.164:7001/bosprod/jsp/index.jsp?mid=CAPM300403A&lid=8&sid=CAPM300403A

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+    <CommonWaitingTime>0.5</CommonWaitingTime>
+    <DelayOneSec>1</DelayOneSec>
+    <DelayTwoSec>2</DelayTwoSec>
+    <MaxWaitingTimeForError>60</MaxWaitingTimeForError>
+    <ImageFilePath>C:/RPA_Cardpro/CIF_Creation/Image/</ImageFilePath>
+	<tesseract_path>C:/Program Files (x86)/Tesseract-OCR/tesseract.exe</tesseract_path>
+</configuration>

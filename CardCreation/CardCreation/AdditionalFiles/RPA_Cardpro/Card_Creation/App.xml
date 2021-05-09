@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>    
+	<!-- <HomeURL>http://10.5.13.164:7001/bosprod/LoyaltyPgmServlet</HomeURL> -->
+	<HomeURL>http://172.25.4.222:7001/bosprod/</HomeURL>
+    <DriverLocation>C:\RPA_Cardpro\Card_Creation\chromedriver.exe</DriverLocation>
+	<SupplyErrorURL>http://172.25.4.222:7001/bosprod/jsp/index.jsp?mid=CAPM300403A&amp;lid=8&amp;sid=CAPM300403A</SupplyErrorURL>
+	<WaitTimeForBrowserRefresh>15</WaitTimeForBrowserRefresh>
+</configuration>

@@ -1,0 +1,44 @@
+1612087484771	geckodriver	INFO	Listening on 127.0.0.1:60908
+1612087530880	geckodriver	INFO	Listening on 127.0.0.1:60927
+1612087533984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MDIRFA~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileOkfz7B"
+1612087569980	geckodriver	INFO	Listening on 127.0.0.1:61001
+1612087573074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MDIRFA~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileO1Fsfs"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612087575274	Marionette	INFO	Listening on port 61010
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612087575758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612087575768	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: http://172.25.4.222:7001/bosprod/jsp/script/jfunction.js, line 1684: ReferenceError: var_dateFormat is not defined
+1612087767941	Marionette	ERROR	[33] No reply from Marionette:Register
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1612087814401	Marionette	ERROR	[35] No reply from Marionette:Register
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1612087821414	Marionette	ERROR	[37] No reply from Marionette:Register
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1612087908236	Marionette	ERROR	[39] No reply from Marionette:Register
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1612087925676	Marionette	ERROR	[41] No reply from Marionette:Register
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1612087936472	Marionette	ERROR	[43] No reply from Marionette:Register
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1612088108726	geckodriver	INFO	Listening on 127.0.0.1:61273
+1612088111783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MDIRFA~1.KHA\\AppData\\Local\\Temp\\rust_mozprofilenvgMQ4"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612088113828	Marionette	INFO	Listening on port 61282
+1612088113861	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1612088113872	Marionette	ERROR	[15] No reply from Marionette:Register
+1612088128140	Marionette	INFO	Stopped listening on port 61282
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 10140, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
