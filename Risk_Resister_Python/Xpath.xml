@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+    <riskTitle>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[1]/div/div[2]/div/input</riskTitle>
+	<riskType>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[1]/div/div[3]/div/select</riskType>
+	<riskDescription>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[1]/div/div[5]/div/textarea</riskDescription>
+	<riskdiscovery>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[1]/div/div[6]/div/div/input</riskdiscovery>
+	<riskReport>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[1]/div/div[7]/div/div/input</riskReport>
+	<riskArea>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[1]/div/div[9]/div/textarea</riskArea>
+	<riskDept>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[1]/div/div[10]/div/select</riskDept>
+	<responsiblePerson>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[1]/div/div[12]/div/input</responsiblePerson>
+	<segment>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[2]/div/div[1]/div/select</segment>
+	<isRecurring>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[2]/div/div[2]/div/select</isRecurring>
+	<optionalLose>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[2]/div/div[4]/div/select</optionalLose>
+	<tentiveRoot>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[2]/div/div[6]/div/select</tentiveRoot>
+	<businessImpact>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[2]/div/div[8]/div/select</businessImpact>
+	<actionTaken>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[2]/div/div[10]/div/select</actionTaken>
+	<proposedDate>/html/body/form/div[3]/div[3]/div[2]/div/div[1]/div/div[2]/div/div[14]/div/div/input</proposedDate>
+	<save>/html/body/form/div[3]/div[3]/div[2]/div/div[2]/input[3]</save>
+	<submit>/html/body/form/div[3]/div[3]/div[2]/div/div[2]/button</submit>
+	<submitConfirm>/html/body/form/div[3]/div[3]/div[3]/div/div/div[3]/input</submitConfirm>
+    
+</configuration>
+
+<!--riskTitle=driver.find_element_by_xpath(riskT)
+riskTitle.send_keys("This is risk title")
+
+riskType=driver.find_element_by_xpath("")
+time.sleep(1)
+riskType.send_keys(Keys.ENTER)
+riskType.send_keys(Keys.ARROW_DOWN)
+
+riskDescription=driver.find_element_by_xpath("")
+time.sleep(1)
+riskDescription.send_keys("This is risk Description")
+
+riskdiscovery=driver.find_element_by_xpath("")
+time.sleep(1)
+riskdiscovery.send_keys('2021-03-03')
+
+riskReport=driver.find_element_by_xpath("")
+time.sleep(1)
+riskReport.send_keys('2021-03-03')
+
+
+riskArea=driver.find_element_by_xpath("")
+time.sleep(1)
+riskArea.send_keys('Dhaka')
+
+riskDept=driver.find_element_by_xpath("")
+time.sleep(1)
+riskDept.send_keys(Keys.ENTER)
+riskDept.send_keys(Keys.ARROW_DOWN)
+
+responsiblePerson=driver.find_element_by_xpath("")
+time.sleep(1)
+responsiblePerson.send_keys('ABDUL RAHIM')
+
+segment=driver.find_element_by_xpath("")
+time.sleep(1)
+segment.send_keys(Keys.ENTER)
+segment.send_keys(Keys.ARROW_DOWN)
+segment.send_keys(Keys.ARROW_DOWN)
+
+isRecurring=driver.find_element_by_xpath("")
+time.sleep(1)
+isRecurring.send_keys(Keys.ENTER)
+
+optionalLose=driver.find_element_by_xpath("")
+time.sleep(1)
+optionalLose.send_keys(Keys.ENTER)
+
+tentiveRoot=driver.find_element_by_xpath("")
+time.sleep(1)
+tentiveRoot.send_keys(Keys.ENTER)
+tentiveRoot.send_keys(Keys.ARROW_DOWN)
+
+businessImpact=driver.find_element_by_xpath("")
+time.sleep(1)
+businessImpact.send_keys(Keys.ENTER)
+businessImpact.send_keys(Keys.ARROW_DOWN)
+
+actionTaken=driver.find_element_by_xpath("")
+time.sleep(1)
+actionTaken.send_keys(Keys.ENTER)
+
+proposedDate=driver.find_element_by_xpath("")
+time.sleep(1)
+proposedDate.send_keys(Keys.ENTER)
+
+save=driver.find_element_by_xpath("")
+time.sleep(5)
+save.send_keys(Keys.RETURN)
+
+submit=driver.find_element_by_xpath("")
+time.sleep(5)
+submit.send_keys(Keys.RETURN)
+
+
+submitConfirm=driver.find_element_by_xpath("")
+time.sleep(3)
+submitConfirm.send_keys(Keys.RETURN)-->
